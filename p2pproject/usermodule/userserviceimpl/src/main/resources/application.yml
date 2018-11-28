@@ -1,0 +1,8 @@
+server:
+  port: 9001
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///p2p?userUnicode=true&characterEncoding=utf8
+    username: root
+    password: root

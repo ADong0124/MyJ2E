@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/codecontroller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonsmodule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonsmodule/commonsbeans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonsmodule/commonsredis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonsmodule/commonsshiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermodule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermodule/usercontroller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermodule/usermapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermodule/userpojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermodule/userservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermodule/userserviceimpl" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
